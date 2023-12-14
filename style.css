@@ -46,7 +46,7 @@ label{
     padding-top: 10%;
     border: none;    
     font-weight: bold; 
-    box-shadow: 0 0 10px rgba(255,255,255, 1);
+    box-shadow: 0 0 10px black;
 }
 #random-button{
     background-color: rgb(219, 153, 72);
