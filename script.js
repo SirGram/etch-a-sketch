@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
   cellRange.min = 1;
   cellRange.max = 128;
   cellRange.step = 1;
-  cellRange.value = 128;
+  cellRange.value = 20;
   cellRangeLabel = document.createElement("label");
   cellRangeLabel.textContent = "Number of cells";
   cellRangeLabel.htmlFor = cellRange;
